@@ -18,7 +18,5 @@ mini_projects/- CLI-based small applications
 Goal
 Build production-ready AI systems with strong Python fundamentals.
 
-
-
 Maintained by : Swaraj Shejul
 AI Engineer (in progress)
