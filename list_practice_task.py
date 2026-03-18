@@ -178,9 +178,7 @@ print(l)
 l = ['w', 'v', 'u', 's', 's', 'r', 'r', 'p', 'n', 'l', 'j', 'j', 'i', 'h', 'e', 'a', 'a', 'a']
 l2 = []
 for i in l:
-    if i in l2:
-        l2.count(i)
-    else:
+    if i not in l2:
         l2.append(i)
 
 for i in l2:
